@@ -1,0 +1,21 @@
+{
+  "name": "lktask",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "jest ---watch-all"
+  },
+  "keywords": ["jest","javascript","algorithm","test"],
+  "author": "Lakhdar boudjahfa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jest": "^28.1.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34"
+  },
+  "devDependencies": {
+  
+  }
+}
