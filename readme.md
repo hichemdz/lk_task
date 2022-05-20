@@ -1,5 +1,5 @@
 # hwo run me
-- git clone https//github.go/hichemDz/lk_tsk
+- git clone https://github.com/hichemdz/lk_task.git
 - run npm install or yarn add package.json
 - Open the terminal or cmd and change the path to the Lk_task folder and  write 
 > ``` node app.js nameFile.json```
